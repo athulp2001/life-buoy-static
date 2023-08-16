@@ -1,0 +1,731 @@
+body{
+    margin: 0;
+}
+:root:hover{
+   
+    
+}
+.header{
+    width: 100%;
+    height: 90px;
+    border-bottom: 5px solid red;
+
+    
+   
+
+
+}
+.logo{
+    margin-top: 12px;
+    margin-left: 60px;
+   width: 140px;
+   height: 90px;
+   float: left;
+}
+.logo:hover{
+    cursor: pointer;
+    
+}
+.product{
+    margin-left: 25px;
+    height: 30px;
+    width: 98px;
+   
+    float: left;
+    color:#e2231a;
+   font-weight: 700;
+   font-family: Arial;
+   font-size: 14px;
+
+}
+
+.product:hover{
+    border-bottom: solid;
+    border-width: 5px;
+    border-color: black;
+    cursor: pointer;
+}
+.about{
+    margin-left: 40px;
+    height: 50px;
+    width: 85px;
+    float: left;
+    color:#e2231a;
+   font-weight: 700;
+   font-family: Arial;
+   font-size: 14px;
+
+
+}
+.about:hover{
+ cursor: pointer;
+        border-bottom: solid;
+        border-width: 5px;
+        border-color: black;
+   
+}
+.health{
+    margin-left: 40px;
+    height: 50px;
+    width: 85px;
+    float: left;
+    color:#e2231a;
+   font-weight: 700;
+   font-family: Arial;
+   font-size: 14px;
+
+
+}
+.health:hover{
+ cursor: pointer;
+    border-bottom: solid;
+    border-width: 5px;
+    border-color: black;
+
+}
+.ourmission{
+    margin-left: 40px;
+    height: 40px;
+    width: 80px;
+    float: left;
+    color:#e2231a;
+   font-weight: 700;
+   font-family: Arial;
+   font-size: 14px;
+
+
+}
+.ourmission:hover{
+    cursor: pointer;
+    border-bottom: solid;
+    border-width: 5px;
+    border-color: black;
+
+}
+.service{
+    margin-left: 40px;
+    padding: auto;
+    height: 35px;
+    width: 165px;
+    float: left;
+    color:#e2231a;
+   font-weight: 700;
+   font-family: Arial;
+   font-size: 14px;
+}
+.service:hover{
+    cursor: pointer;
+    border-bottom: solid;
+    border-width: 5px;
+    border-color: black;
+
+}
+
+.search{
+    height: 17px;
+    width: 200px;
+    margin-left: 60px;
+    margin-top: 19px;
+
+}
+.search:hover{
+    cursor: pointer;
+}
+.img1{
+    margin-top: -5px;
+
+
+}
+.img1:hover{
+    cursor: pointer;
+}
+.youtube{
+    margin-top: 70px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.youtube:hover{
+    cursor: pointer;
+}
+.explore{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 6%;
+    font-family: Arial;
+    font-weight: bold;
+}
+.explore:hover{
+    cursor: pointer;
+}
+.productname{
+    height: 400px;
+    width: 90%;
+    margin-left: 5%;
+    
+}
+.productname:hover{
+    cursor: pointer;
+}
+.imgofproduct{
+    margin-left: 10%;
+
+}
+.imgofproduct:hover{
+    cursor: pointer;
+}
+.bars{
+    margin-left: 5%;
+}
+.bars:hover{
+    cursor: pointer;
+}
+.vitmis{
+    margin-left: 15%;
+}
+.vitmis:hover{
+    cursor: pointer;
+}
+.hands{
+    margin-left: 13%;
+}
+.hands:hover{
+    cursor: pointer;
+}
+.barsoap{
+
+    border-radius:13px ;
+  margin-top: -150px;
+
+    width: 32%;
+    height: 250px;
+background-color: #e2231a;
+
+}
+.barsoap:hover{
+    cursor: pointer;
+}
+.handwash{
+    
+    border-radius:13px ;
+ margin-top: -275px;
+ margin-left: 34%;
+    width: 32%;
+    height: 250px;
+background-color: #e2231a;
+
+}
+.handwash:hover{
+    cursor: pointer;
+}
+.sanitizer{
+  
+    border-radius:13px ;
+    margin-top: -275px;
+    margin-left: 68%;
+     width: 32%;
+       height: 250px;
+   background-color: #e2231a;
+}
+.sanitizer:hover{
+    cursor: pointer;
+}
+.bartext{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial;
+   color: white;
+  
+     padding-top: 35%;
+   margin-left: 28%;
+}
+.bartext:hover{
+    cursor: pointer;
+}
+.handwashtext{
+   
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial;
+   color: white;
+
+   padding-top: 35%;
+   margin-left: 22%;
+
+}
+.handwashtext:hover{
+    cursor: pointer;
+}   
+
+
+.sanitizertext{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial;
+   color: white;
+  
+   padding-top: 35%;
+   margin-left: 33%;
+  
+
+}
+.sanitizertext:hover{
+    cursor: pointer;
+}
+.seeallproduct1{
+    font-size: 14px;
+    font-family: Arial;
+    color: white;
+    margin-left: 30%;
+   
+
+}
+.seeallproduct1:hover{
+    cursor: pointer;
+}
+.seeallproduct2{
+    font-size: 14px;
+    font-family: Arial;
+    color: white;
+    margin-left: 35%;
+   
+
+}
+.seeallproduct2:hover{
+    cursor: pointer;
+}
+.seeallproduct3{
+    font-size: 14px;
+    font-family: Arial;
+    color: white;
+    margin-left: 33%;
+   
+
+}
+.seeallproduct3:hover{
+    cursor: pointer;
+}
+.hygine{
+    margin-top: 40px;
+    width: 100%;
+
+}
+.hygine:hover{
+    cursor: pointer;
+}
+.health1{
+    font-family: Arial;
+     height:15px;
+     width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+
+}
+.health1:hover{
+    cursor: pointer;
+}
+.stay{
+   
+    font-family: Arial;
+ font-size: 13px;
+ font-weight: 400;
+    
+float: left; 
+
+}
+.stay:hover{
+    cursor: pointer;
+}
+.visitarticle{
+
+  margin-left: 15px;
+    font-family: Arial;
+ font-size: 12px;
+    
+ color: #d50e03;
+
+ font-weight:700 ;
+
+}
+.visitarticle:hover{
+    cursor: pointer;
+}
+
+.threeimg{
+    display: flex;
+    margin-top: 70px;
+    width: 100%;
+    height: 500px;
+
+}
+.threeimg:hover{
+    cursor: pointer;
+}
+.threeimg1{
+   
+ 
+   
+
+    width: 31.3%;
+    height: 500px;
+    background-color:#e2231a;
+}
+.threeimg1:hover{
+    cursor: pointer;
+}
+.phw1{
+   
+    object-fit: cover;
+    object-position: center;
+   
+   
+
+}
+.phw1:hover{
+    cursor: pointer;
+}
+.phw1discrpiton{
+    margin-left: 20px;
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+}
+.phw1discrpiton:hover{
+    cursor: pointer;
+}
+.phw1discrpiton1{
+    margin-left: 20px;
+    margin-top: -18px;
+    color: white;
+    font-family: Arial;
+    font-size: 14px;
+}
+.phw1discrpiton1:hover{
+    cursor: pointer;
+}
+
+
+.threeimg2{
+  
+    margin-left: 3%;
+    width: 31.3%;
+    height: 500px;
+    background-color: #e2231a;
+}
+.threeimg2:hover{
+    cursor: pointer;
+}
+.phc2{
+  
+    object-fit: cover;
+    object-position: center;
+}
+.phc2:hover{
+    cursor: pointer;
+}
+.phc2discription{
+    margin-left: 20px;
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+}
+.phc2discription:hover{
+    cursor: pointer;
+}
+.phc2discription1{
+    margin-left: 20px;
+    margin-top: -18px;
+    color: white;
+    font-family: Arial;
+    font-size: 14px;
+}
+.phc2discription1:hover{
+    cursor: pointer;
+}
+.threeimg3{
+    margin-left: 3%;
+    width: 31.3%;
+    height: 500px;
+    background-color: #e2231a;
+}
+.threeimg3:hover{
+    cursor: pointer;
+}
+.phmn3{
+    object-fit: cover;
+    object-position: center;
+}
+.phmn3:hover{
+    cursor: pointer;
+}
+.phmn1discription{
+    margin-left: 20px;
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+}
+.phmn1discription:hover{
+    cursor: pointer;
+}
+.phmn1discription1{
+    margin-left: 20px;
+    margin-top: -18px;
+    color: white;
+    font-family: Arial;
+    font-size: 14px;
+}
+.phmn1discription1:hover{
+    cursor: pointer;
+}
+
+.arro1{
+    width: 100%;
+    display: flex;
+}
+.arro1:hover{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+.globalpartners1{
+    margin-left: -5.5%;
+    margin-top: 120px;
+    height: 653px;
+    width: 111%;
+    background-color: rgb(247, 244, 244);
+}
+.globalpartners1:hover{
+    cursor: pointer;
+}
+.gbl{
+    color: #d50e03;
+    margin-left: 479px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: arial;
+}
+.gbl:hover{
+    cursor: pointer;
+}
+
+.arrowcleft{
+    margin-left: 80px;
+ margin-top: 45px;
+    width:36px;
+  
+}
+.arrowcleft:hover{
+    cursor: pointer;
+}
+.arrowcright{
+
+    margin-top: 45px;
+    width:36px;
+}
+.arrowcright:hover{
+    cursor: pointer;
+}
+.london{
+
+}
+.unicef{
+    margin-left: 30px;
+}
+.unicef:hover{
+    cursor: pointer;
+}
+.partnersin{
+    margin-left: 30px;
+}
+.partnersin:hover{
+    cursor: pointer;
+}
+.savethechildren{
+    margin-left: 30px;
+}
+.savethechildren:hover{
+    cursor: pointer;
+}
+.usaid{
+    margin-left: 30px;
+}
+.usaid:hover{
+    cursor: pointer;
+}
+
+.line1{
+    margin-top: 15px;
+  margin-left: -5.6%;
+    border-bottom: solid;
+    border-color: rgb(243, 17, 17);
+     width: 111.1%;
+     border-width: 4px;   
+}
+.line1:hover{
+    cursor: pointer;
+}
+
+.newsuper{
+    margin-left: 5%;
+    margin-top: 110px;
+}
+.newsuper:hover{
+    cursor: pointer;
+}
+.select1{
+   
+}
+.fotter1{
+    width: 100%;
+    display: flex;
+}
+.fotter1:hover{
+    cursor: pointer;
+}
+.logoani{
+    margin: 40px;
+}
+.logoani:hover{
+    cursor: pointer;
+}
+.productdiv ul li{
+    font-family: arial;
+     list-style-type:none;
+ }
+ 
+ .healthhdiv ul li{
+    font-family: arial;
+     list-style-type:none;
+ }
+ .missiondiv ul li{
+    font-family: arial;
+     list-style-type:none;
+ }
+ .lifebouydiv ul li{
+    font-family: arial;
+     list-style-type:none;
+ }
+ .contactdiv ul li{
+    font-family: arial;
+     list-style-type:none;
+ }
+.Productspro1 {
+    
+    margin-top: 50px;
+    color: #e2231a;
+    font-family: arial;
+    font-size: 13px;
+    font-weight: bold;
+}
+.Productspro1:hover{
+    cursor: pointer;
+}
+.Productspro2 {
+    
+    margin-top: 50px;
+    color: #e2231a;
+    font-family: arial;
+    font-size: 13px;
+    font-weight: bold;
+}
+.Productspro2:hover{
+    cursor: pointer;
+}
+.Productspro3 {
+    
+    margin-top: 50px;
+    color: #e2231a;
+    font-family: arial;
+    font-size: 13px;
+    font-weight: bold;
+}
+.Productspro3:hover{
+    cursor: pointer;
+}
+.Productspro4{
+    
+    margin-top: 50px;
+    color: #e2231a;
+    font-family: arial;
+    font-size: 13px;
+    font-weight: bold;
+}
+.Productspro5 {
+    
+    margin-top: 50px;
+    color: #e2231a;
+    font-family: arial;
+    font-size: 13px;
+    font-weight: bold;
+}
+.bodywashpro{
+    font-size:11px ;
+    margin-top: 5px;
+}
+.Productspro6{
+    
+    margin-top: 50px;
+    color: #e2231a;
+    font-family: arial;
+    font-size: 13px;
+    font-weight: bold;
+}
+.bodywashpro:hover{
+    color: gray;
+}
+.tollfreecont{
+
+    font-size:11px ;
+    margin-top: 5px;
+}
+.Productspro6{
+    
+margin-left: 25px;
+}
+.facebookimg{
+ margin-left: 25px;
+}
+.select1{
+    margin-left: 20px;
+    margin-top: 50px;
+    width: 150px;
+}
+.finalfooter{
+    height: 65px;
+    display: flex;
+}
+.lifebouyoisnot{
+    font-size:11px ;
+    color: #dc160c;
+}
+.coockie{
+    font-size:12px ;
+    margin-left: 30px;
+    width: 20px;
+}
+.coockie1{
+    font-size:12px ;
+    margin-left: 30px;
+    width: 50px;
+}
+.coockie2{
+    margin-top: 20px;
+    font-size:12px ;
+    margin-left: 30px;
+    width: 50px;
+}
+.copyright2023{
+    font-size:11px ;
+  width: 600px; 
+}
+.spancopy{
+}
+.logofinalimg{
+    margin-top: 10px;
+    margin-left: 80px;
+}
